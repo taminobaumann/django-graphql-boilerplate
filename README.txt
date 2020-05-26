@@ -1,1 +1,1 @@
-Boilerplate Code for a GraphQL API with Django
+Boilerplate code for a GraphQL API with Django
